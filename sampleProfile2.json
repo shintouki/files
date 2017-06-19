@@ -1,0 +1,18 @@
+{
+  "title": "User Profile",
+  "description": "User profile",
+  "profile": [
+    { "name": "Michael Jordan",
+      "stars": "5",
+      "cname": "NBA",
+      "city": "Chicago, Illinois",
+      "about": "GOAT",
+      "phone": "917-834-3849",
+      "website": "https://mjordan.com",
+      "email": "mj@gmail.com.com",
+      "address": "345 High St.",
+      "img": "http://meanstars.com/profile/134.jpg",
+      "userSince": "2009"
+    }
+  ]
+}
