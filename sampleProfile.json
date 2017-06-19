@@ -1,0 +1,18 @@
+{
+  "title": "User Profile",
+  "description": "User profile",
+  "profile": [
+    { "name": "John Pablo",
+      "stars": "4",
+      "cname": "John Plumbing Corp.",
+      "city": "Brooklyn, New York",
+      "about": "Founded in 2005 Painting company specializing in all sorts of works ranging from residential work to industrial projects.",
+      "phone": "917-834-3849",
+      "website": "https://sunsidepaint.com",
+      "email": "john@sunside.com",
+      "address": "230 Convent Avenue.",
+      "img": "https://wrkbook.com/images/userImages/profilePictures/1.jpg",
+      "userSince": "2012"
+    }
+  ]
+}
